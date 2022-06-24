@@ -1,0 +1,43 @@
+
+[
+    {
+        "customer_sources": {
+            "telephone": "0918599898",
+            "email": "vominhtam@gmail.com",
+            "Account_No_": "MA0017878",
+            "Contact_No_": "MC0017878",
+            "Name": "VO MINH TAM",
+            "Gender": "Male",
+            "Address": "123 đường A phường B",
+            "Address_2": "HoChiMinh, VietNam",
+            "City": "HA NOI",
+            "employer": "Marketing",
+            "Post_Code": "100000.0",
+            "Scheme_Code": "HP2-MEM",
+            "Club_Code": "Active",
+            "status": "Gold",
+            "Created_Date": "2019-05-03 00:00:00.000",
+            "Date_Blocked": "1753-01-01 00:00:00.000",
+            "username": "vominhtam@gmail.com",
+            "languages": "Vietnamese, Englist",
+            "DOB": "11/08/1998",
+            "Country": "Viet Nam",
+            "Role": "Marketer",
+            "DeviceActive": "Windown computer"
+        },
+        "customer_address": {
+            "street": "Số Nhà 40 / Ngõ 128 / An Dương/ Yên Phụ",
+            "Account_No_": "MA0017878",
+            "CHANNEL_FB": "16.1%",
+            "CHANNEL_INS": "70.5%",
+            "CHANNEL_TWI": "20.7%",
+            "CLIENT_SEGMENT": "Sophisticated Opportunist",
+            "CREDIT_RATING": "95%",
+            "PROFILE_COMPLETENESS": "80 %",
+            "MARITAL_STATUS": "Single",
+            "CHILDREN": "0",
+            "Country": "VN",
+            "Date_of_Birth": "25/05/2017"
+        }
+    }
+]
